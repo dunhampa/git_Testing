@@ -1,0 +1,187 @@
+{
+  "brandName": "Example Brand One",
+  "brandId": "ebo-2024",
+  "slogan": "Adventure Awaits, Gear Up.",
+  "foundingYear": 2018,
+  "websiteUrl": "https://www.examplebrandone.com",
+  "metadata": {
+    "version": "1.2.0",
+    "lastUpdated": "2025-06-23T12:00:00Z",
+    "author": "Brand Management System"
+  },
+  "contactInfo": {
+    "supportEmail": "support@examplebrandone.com",
+    "pressEmail": "press@examplebrandone.com",
+    "phone": "1-800-555-0199",
+    "socialMedia": {
+      "instagram": "https://instagram.com/examplebrandone",
+      "facebook": "https://facebook.com/examplebrandone",
+      "twitter": "https://twitter.com/examplebrandone"
+    }
+  },
+  "headquarters": {
+    "street": "123 Adventure Lane",
+    "city": "Boulder",
+    "state": "Colorado",
+    "zipCode": "80301",
+    "country": "USA"
+  },
+  "brandGuidelines": {
+    "colorPalette": {
+      "primary": "#0A2F51",
+      "secondary": "#0E4D64",
+      "accent": "#F5A623",
+      "neutralLight": "#F8F9FA",
+      "neutralDark": "#343A40"
+    },
+    "typography": {
+      "headerFont": "Montserrat, sans-serif",
+      "bodyFont": "Lato, sans-serif"
+    }
+  },
+  "productLines": [
+    {
+      "lineName": "Summit Series Tents",
+      "description": "Ultralight, all-weather tents designed for the most demanding expeditions.",
+      "products": [
+        {
+          "sku": "EBO-TENT-001",
+          "productName": "Pathfinder 2-Person Tent",
+          "price": 349.99,
+          "weight_kg": 1.5,
+          "capacity": 2,
+          "features": [
+            "Dual-vestibule design",
+            "Waterproof ripstop nylon",
+            "DAC featherlite poles",
+            "Internal gear loft"
+          ],
+          "colorOptions": [
+            { "name": "Alpine Green", "hex": "#386641" },
+            { "name": "Sunrise Orange", "hex": "#E57C23" }
+          ]
+        },
+        {
+          "sku": "EBO-TENT-002",
+          "productName": "Guardian 4-Season Tent",
+          "price": 599.99,
+          "weight_kg": 2.8,
+          "capacity": 2,
+          "features": [
+            "Heavy-duty snow-load frame",
+            "Expedition-grade waterproofing (10,000mm)",
+            "Ventilation ports for condensation management",
+            "Reflective guy-lines"
+          ],
+          "colorOptions": [
+            { "name": "Arctic White", "hex": "#FFFFFF" },
+            { "name": "Glacier Blue", "hex": "#6AABD2" }
+          ]
+        }
+      ]
+    },
+    {
+      "lineName": "Ascend Series Backpacks",
+      "description": "Ergonomic and durable backpacks for everything from day hikes to multi-day treks.",
+      "products": [
+        {
+          "sku": "EBO-PACK-001",
+          "productName": "Trailblazer 35L Daypack",
+          "price": 129.99,
+          "weight_kg": 0.9,
+          "volume_liters": 35,
+          "features": [
+            "Internal frame for load distribution",
+            "Hydration reservoir compatible",
+            "Integrated rain cover",
+            "Hip belt with pockets"
+          ],
+          "colorOptions": [
+            { "name": "Graphite Gray", "hex": "#495057" },
+            { "name": "Crimson Red", "hex": "#DC3545" }
+          ]
+        },
+        {
+          "sku": "EBO-PACK-002",
+          "productName": "Voyager 65L Expedition Pack",
+          "price": 279.99,
+          "weight_kg": 2.1,
+          "volume_liters": 65,
+          "features": [
+            "Adjustable torso length",
+            "Floating top lid",
+            "Multiple compression straps",
+            "Sleeping bag compartment"
+          ],
+          "colorOptions": [
+            { "name": "Forrest Green", "hex": "#28A745" },
+            { "name": "Midnight Blue", "hex": "#001D3D" }
+          ]
+        }
+      ]
+    }
+  ],
+  "marketing": {
+    "activeCampaigns": [
+      {
+        "campaignId": "SUMMER2025",
+        "name": "Summer of Summits",
+        "startDate": "2025-06-01",
+        "endDate": "2025-08-31",
+        "description": "Promoting our new tent and pack line for the summer hiking season.",
+        "targetAudience": "Hikers, backpackers, mountaineers aged 25-45.",
+        "channels": ["social_media", "email_marketing", "influencer_outreach"]
+      },
+      {
+        "campaignId": "WINTER2025",
+        "name": "Conquer the Cold",
+        "startDate": "2025-11-01",
+        "endDate": "2026-01-31",
+        "description": "Highlighting our 4-season gear for winter camping and ice climbing.",
+        "targetAudience": "Experienced winter adventurers, ice climbers.",
+        "channels": ["print_magazine", "sponsorships", "film_festivals"]
+      }
+    ]
+  },
+  "storeLocations": [
+    {
+      "storeId": "EBO-STORE-01",
+      "name": "EBO Boulder Flagship",
+      "address": {
+        "street": "456 Peak View Dr",
+        "city": "Boulder",
+        "state": "CO",
+        "zipCode": "80302"
+      },
+      "services": ["Gear Rental", "Expert Fitting", "Repair Shop"]
+    },
+    {
+      "storeId": "EBO-STORE-02",
+      "name": "EBO Seattle",
+      "address": {
+        "street": "789 Rainier Ave",
+        "city": "Seattle",
+        "state": "WA",
+        "zipCode": "98101"
+      },
+      "services": ["Expert Fitting", "Community Workshops"]
+    },
+    {
+      "storeId": "EBO-STORE-03",
+      "name": "EBO Salt Lake City",
+      "address": {
+        "street": "101 Wasatch Blvd",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zipCode": "84108"
+      },
+      "services": ["Gear Rental", "Repair Shop", "Guided Hikes"]
+    }
+  ],
+  "featureFlags": {
+    "enableNewHomepageLayout": true,
+    "showSeasonalPromoBanner": false,
+    "useExperimentalSearchAlgorithm": true,
+    "enableLiveChatSupport": true
+  }
+}
