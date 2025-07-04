@@ -1,0 +1,40 @@
+{
+  "brandOverview": "BrewNest is a direct-to-consumer brand offering portable, artisanal coffee-brewing systems and accessories for digital nomads, remote professionals, and caffeine connoisseurs.",
+  "tagline": "Craft coffee anywhere.",
+  "missionStatement": "At BrewNest, we deliver barista-quality brewing experiences to remote workers and wanderers, blending precision engineering with sustainable design.",
+  "vision": "A world where every workspace, campsite, or co-working corner becomes a personal café.",
+  "coreValues": {
+    "quality": "Café-level extraction, every time.",
+    "portability": "Compact, lightweight, and travel-ready.",
+    "sustainability": "Eco-friendly materials and minimal waste.",
+    "craftsmanship": "Attention to detail in every component.",
+    "community": "Connecting coffee lovers across the globe."
+  },
+  "targetAudience": "Digital nomads, remote employees, travelling entrepreneurs, and home-office dwellers who refuse to compromise on coffee quality.",
+  "positioningStatement": "For mobile professionals demanding exceptional coffee on the go, BrewNest provides precision-engineered brewing systems crafted from sustainable materials—bringing the café experience anywhere.",
+  "brandPersonalityVoice": {
+    "tone": "Warm, knowledgeable, inviting",
+    "style": "Concise, instructional language with a friendly flair"
+  },
+  "messagingPillars": [
+    "Precision Brew Mechanics — Calibrated flow, temperature control, and extraction",
+    "Eco-Friendly Materials — Recycled metals, food-safe silicone, biodegradable filters",
+    "Café-Anywhere Experience — From bean to cup in under five minutes"
+  ],
+  "productArchitecture": {
+    "AeroNest Brewer": "Stainless-steel pour-over unit, collapsible silicone body, insulated base",
+    "PressNest Insulator": "Vacuum-plated French-press tumbler, built-in filter, double-wall temperature retention",
+    "NestGrind Pro": "Compact hand grinder with adjustable ceramic burrs, magnetic lid"
+  },
+  "visualIdentityGuidelines": {
+    "logo": "A stylized nest cradling a coffee droplet",
+    "colorPalette": ["Terracotta", "Cream", "Forest Green"],
+    "typography": "Friendly serif for headlines; clean sans-serif for instructions",
+    "imagery": "Cozy co-working desks, campsite mornings, detailed product close-ups"
+  },
+  "brandApplications": {
+    "websiteAndEcommerce": "Step-by-step brew tutorials, bundling options, recipe blog",
+    "packaging": "Biodegradable pouches, hint-of-nest iconography on boxes",
+    "socialMedia": "Brew recipe reels, user tips spotlight, live Q&A with baristas"
+  }
+}
